@@ -1,0 +1,156 @@
+body {
+
+    margin:0px;
+    padding:0px;
+    background-color: #edede9;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+#navigation {
+
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    background-color: #d6ccc2;
+    position:fixed;
+    top:0;
+    width:100%;
+    height:80px;
+
+}
+
+.option {
+
+    margin-right: 20px;
+    text-decoration: none;
+    color:black;
+    font-weight: bold;
+}
+
+.option:hover {
+
+    padding:5px;
+    background-color: #f5ebe0 ;
+    border-radius: 10px;
+
+}
+
+#abt {
+    height: 600px;
+    width: 90%;
+    background-color: #e3d5ca ;
+    margin-top: 100px;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+
+}
+
+.des {
+
+
+    font-size: 20px;
+
+}
+
+.des:hover {
+
+
+    font-size: 18px;
+    padding:5px;
+    background-color: bisque;
+
+}
+
+#skill {
+
+    height: 650px;
+    width: 90%;
+    background-color: #e3d5ca ;
+    margin-top: 100px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+
+}
+
+#sklimg {
+
+    height: 200px;
+    width:300px;
+
+}
+
+#sklim {
+
+    height: 200px;
+    width:200px;
+
+
+
+}
+
+.cards {
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+
+
+}
+
+.cards:hover {
+
+
+    font-size: 15px;
+    color: red;
+
+
+}
+
+.cardo:hover {
+
+    box-shadow: 10px 10px 10px bisque;
+
+}
+
+#contact {
+
+    height: 650px;
+    width: 90%;
+    background-color: #e3d5ca ;
+    margin-top: 100px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+
+
+}
+
+#fb {
+
+    font-size: 50px;
+    text-decoration: none;
+    color: black;
+    margin-top: 200px;
+
+}
+
+#ig {
+
+    font-size: 50px;
+    text-decoration: none;
+    color: black;
+    margin-top: 20px;
+
+}
