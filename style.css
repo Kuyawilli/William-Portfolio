@@ -2,7 +2,7 @@ body {
 
     margin:0px;
     padding:0px;
-    background-color: #edede9;
+    background-color: #6A7E3F;
     display: flex;
     flex-direction: column;
     justify-content: space-evenly;
@@ -152,5 +152,6 @@ body {
     text-decoration: none;
     color: black;
     margin-top: 20px;
+
 
 }
